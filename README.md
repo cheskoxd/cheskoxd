@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Derek Lacayo</h1>
 <h3 align="center">A 19 year old guy who is apassionate in building Fullstack Apps</h3>
 
-<p align="left"> <a href="https://twitter.com/xdchesko" target="blank"><img src="https://img.shields.io/twitter/follow/xdchesko?logo=twitter&style=for-the-badge" alt="xdchesko" /></a> </p>
-
 - 📫 How to reach me **chesko.dev@gmail.com**
 
 - ⚡ Fun fact **Dean Lewis is superior**
@@ -18,3 +16,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/cheskodev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cheskodev" /></a></p><br><br>
+

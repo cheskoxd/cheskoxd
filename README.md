@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **chesko.dev@gmail.com**
 
-- ⚡ Fun fact **Idk wtf im doin **
+- ⚡ Fun fact **Idk wtf im doin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

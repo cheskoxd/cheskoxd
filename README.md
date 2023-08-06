@@ -1,5 +1,5 @@
-<h1 align="center">ayo, Im Derek Lacayo</h1>
-<h3 align="center">A Junior Developer who still googles "how to center a div"</h3>
+<h1 align="center">Hey, Im Derek Lacayo</h1>
+<h3 align="center">A dev who still googles "how to center a div"</h3>
 
 - 📫 How to reach me **chesko.dev@gmail.com**
 

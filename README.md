@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://img.freepik.com/free-photo/portrait-handsome-man-orange-background_23-2149020010.jpg?w=360&t=st=1692405358~exp=1692405958~hmac=0d4916c4ebbec8ee6b44d744a8612c686a2a6e35e199ecce65ccd78ba999df50"  />
+
 
 ###
 

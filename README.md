@@ -46,9 +46,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/cheskoxd/cheskoxd/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h3 align="left">Support:</h3>

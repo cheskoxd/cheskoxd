@@ -7,7 +7,7 @@
 </div>
 
 ###
-
+Currently looking for work — open to collaboration, freelance, or remote positions.
 
 
 ###
@@ -46,7 +46,7 @@
 ###
 
 <br clear="both">
-###
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/cheskodev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cheskodev" /></a></p><br><br>
